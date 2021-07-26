@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+}
+
+.pet-adopt-button {
+    font-size: 16px;
+    color: red;
+}
+
+#welcome-message {
+    font-size: 18px;
+    color: orange;
+    font-weight: bold;
+}
+
+section.weather-section {
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.weather-title {
+    color: blue;
+}

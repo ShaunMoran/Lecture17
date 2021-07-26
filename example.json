@@ -1,0 +1,19 @@
+{
+    "date": "7-26-2021",
+    "successful": true,
+    "request": 1,
+    "dogs": [
+        {
+            "name": "Stark",
+            "age": 7
+        },
+        {
+            "name": "Bella",
+            "age": 4
+        },
+        {
+            "name": "Toby",
+            "age": 6
+        }
+    ]
+}
